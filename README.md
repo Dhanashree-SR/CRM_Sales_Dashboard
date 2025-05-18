@@ -1,4 +1,4 @@
-# 📊 CRM Sales Performance Dashboard – Google Sheets
+# 📊 **CRM Sales Performance Dashboard – Google Sheets**
 
 ## 📌 Overview
 
@@ -6,7 +6,7 @@ This dashboard provides a **comprehensive view of quarterly sales performance** 
 
 ## 📷 Dashboard Preview
 
-![CRM Sales Dashboard](./efc466b2-e945-4e65-a1f3-75db3adf9fc2.png)
+<img src="CRM_Sales_Dashboard/CRM Sales Dashboard.jpg"/>
 
 ---
 
