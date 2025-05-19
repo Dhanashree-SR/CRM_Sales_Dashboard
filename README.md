@@ -42,6 +42,16 @@ This dashboard provides a **comprehensive view of quarterly sales performance** 
 
 ---
 
+## 🎓 Learning Source
+
+This dashboard was created as part of the [CRM Sales Dashboard](https://app.mavenanalytics.io/guided-projects/13ce0362-3a49-473d-9421-9e15ee8adfa7) guided project on **Maven Analytics**, with mentorship from [@Enrique Ruiz](https://www.linkedin.com/in/enrique-ruiz-tapia/).
+
+🏅 **Completion badge earned** from Maven Analytics. <br/>
+
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/143618303"/>
+
+---
+
 ## 📥 Try It Yourself
 
 ### 🔗 *[Click here to view the live dashboard](https://docs.google.com/spreadsheets/d/1lr1Xg-Z_bKIdwCCE4Go2IOlHfBHEYjJUGZPk4opLtGc/edit?usp=sharing)*  
